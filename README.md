@@ -36,14 +36,14 @@ print(summa)
 
 - [x] nazis
 
-- [x] dēlis
+- [ ] dēlis
 
 - [x] gaļa
 
 ### tabula
-| mani| sauc|
+| vecums| paziņu vārds|
 | --- | ----------- |
-| Roberts | Āboliņš |
-| mācos es skolā | dzimšanas datums 15.05.04 |
+|  40 |  mana māte Sandija|
+| 43 | mans tēvs Juris |
 
 
