@@ -23,7 +23,14 @@ print(summa)
 ![billde](bilde.png)
 ![billde](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.discoverwildlife.com%2Fanimal-facts%2Fmammals%2Fthe-people-who-believe-orangutans-are-family%2F&psig=AOvVaw3Wcrqt5SOme1IiEFn90I__&ust=1612350823563000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCOjU_IWJy-4CFQAAAAAdAAAAABAD)
 
+### saraksts 
+1. rakstu randoma 
 
+2. rakstu random  v2
+
+3. rakstu randoma v3 
+
+4. rakstu randoma v4
 
 
 
