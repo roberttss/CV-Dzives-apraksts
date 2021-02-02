@@ -36,9 +36,9 @@ print(summa)
 
 - [x] nazis
 
-- [ ] dēlis
+- [x] dēlis
 
-- [ ] gaļa
+- [x] gaļa
 
 
 
