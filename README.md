@@ -32,5 +32,13 @@ print(summa)
 
 4. rakstu randoma v4
 
+### saraksts ( atzīmes )
+
+- [x] nazis
+
+- [ ] dēlis
+
+- [ ] gaļa
+
 
 
