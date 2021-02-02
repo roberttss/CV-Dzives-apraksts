@@ -46,4 +46,8 @@ print(summa)
 |  40 |  mana māte Sandija|
 | 43 | mans tēvs Juris |
 
+### linija 
+————————————————————————————————————————————————— 
+
+
 
