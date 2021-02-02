@@ -40,5 +40,10 @@ print(summa)
 
 - [x] gaļa
 
+### tabula
+| mani| sauc|
+| --- | ----------- |
+| Roberts | Āboliņš |
+| mācos es skolā | dzimšanas datums 15.05.04 |
 
 
